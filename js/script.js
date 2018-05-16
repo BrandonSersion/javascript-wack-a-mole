@@ -38,7 +38,7 @@ function clickEvent() {
 function start() {
     $('#start_button').off();
     $('#timer').show();
-    $('#gamespace').css('background-color', '#008000');
+    $('#gamespace').css('background-color', '#56d852');
     $("h1").css({
         "color": "green",
         "font-size": "20px",
